@@ -1,0 +1,10 @@
+[
+  {
+    "package": "owd",
+    "oncran": true
+  },
+  {
+    "package": "QDiabetes",
+    "oncran": true
+  }
+]
