@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "owd"]
-	path = owd
-	url = https://github.com/feakster/owd
 [submodule "QDiabetes"]
 	path = QDiabetes
 	url = https://github.com/feakster/qdiabetes
+[submodule "owd"]
+	path = owd
+	url = https://github.com/feakster/owd
